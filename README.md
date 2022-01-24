@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for Weechat-Android
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -17,16 +17,12 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+1. Clone this repository locally or download [`catppuccin-weechat.properties`]()
+2. In Weechat-Android, navigate to Settings > Theme > Dark color scheme > Import
+3. Select `catppuccin-weechat`
+4. Now select Catppuccin as your dark color scheme
+5. Make sure Theme is set to Dark
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Lokesh Krishna](https://github.com/lokesh-krishna)
