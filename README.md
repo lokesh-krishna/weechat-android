@@ -17,7 +17,7 @@
 
 ## Usage
 
-1. Clone this repository locally or download [`catppuccin-weechat.properties`]()
+1. Clone this repository locally or download [`catppuccin-weechat.properties`](https://github.com/lokesh-krishna/weechat-android/blob/main/catppuccin-weechat.properties)
 2. In Weechat-Android, navigate to Settings > Theme > Dark color scheme > Import
 3. Select `catppuccin-weechat`
 4. Now select Catppuccin as your dark color scheme
